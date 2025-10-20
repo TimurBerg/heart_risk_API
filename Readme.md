@@ -1,3 +1,4 @@
+'''
 heart_risk_model/
 │
 ├── notebooks/
@@ -16,3 +17,4 @@ heart_risk_model/
 │
 ├── requirements.txt                   # зависимости (для FastAPI и ML)
 └── README.md                          # описание проекта
+'''
